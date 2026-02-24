@@ -1,0 +1,5 @@
+{
+  "name": "GRA e-VAT Architecture Simulator",
+  "description": "Interactive architecture simulator for the Ghana Revenue Authority e-VAT system, featuring live packet flows, POS emulation, API testing, and tax computation visualization.",
+  "requestFramePermissions": []
+}
